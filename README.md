@@ -1,0 +1,1 @@
+This project aims to create a real time graphic that draws the amplitude of the sound and the pitch as well.
