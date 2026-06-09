@@ -60,8 +60,7 @@ try:
 
             plt.tight_layout()
             plt.show()
-
-            pass
+            break
 
 except KeyboardInterrupt:
     try:
